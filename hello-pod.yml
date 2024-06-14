@@ -6,5 +6,5 @@ spec:
     containers:
       - name: bisnu-contaner
         image: nginx
-        ports:
-      - containerport: 80
+         ports:
+           - containerport: 80
